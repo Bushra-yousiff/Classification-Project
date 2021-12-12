@@ -25,3 +25,8 @@ The dataset is a collection of  performance records collected from Korea Sports 
 The goal of this project is to train several classification models on the chosen dataset to help gyms and personal trainers to classify new customers based on their physical performance.
 ### Source: 
 https://www.kaggle.com/kukuroo3/body-performance-data
+
+### team members:
+- Bushra Alolyet
+- Shoug Alkhathran
+- Laila Almajnuni
