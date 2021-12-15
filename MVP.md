@@ -1,4 +1,4 @@
-## Classification of physical performance level
+## Classification of Physical Performance Level
 
 The goal of this project is to train several classification models and select the best one to predict the level of physical performance of the participants based on few exercises, their body measurments and personal demographics to further enhance their fitness journey and avoid injuries. We started approaching the goal with EDA of the dataset from kaggle.com to fully understand the features and the distribution of the dataframe.
 
