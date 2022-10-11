@@ -1,5 +1,5 @@
 # Classification-Project
-<img width="779" alt="Screen Shot 1443-05-15 at 8 44 16 PM" src="https://user-images.githubusercontent.com/75619142/150638742-7634c5c1-33fd-464c-85be-0e6ffc3ea02d.PNG">
+<img width="779" alt="Screen Shot 1443-05-15 at 8 44 16 PM" src="https://github.com/Bushra-yousiff/Classification-Project/blob/main/FC545B2E-9B82-4478-AC5F-7B48AE98C252.jpg">
 
 
 #### Question/Problem statement:
